@@ -1,0 +1,426 @@
+# VMware Explore US 2023 Breakout Session URLs
+
+Here is a summary of all VMware Explore US 2023 Breakout session in an easy to search and view. Enjoy!
+
+_Last Updated: 08/25/2023 06:20:34_
+
+
+Total: 375
+
+Total Sessions Posted: 217
+
+Total Sessions NOT posted: 158
+
+## Table of Content
+
+* [Solution Keynotes](#solution-keynotes) (8)
+
+* [Cloud and Edge Infrastructure](#cloud-and-edge-infrastructure) (173)
+
+* [Hybrid Workforce](#hybrid-workforce) (42)
+
+* [Modern Applications & Cloud Management](#modern-applications-&-cloud-management) (79)
+
+* [Networking & Security](#networking-&-security) (45)
+
+* [Vision and Innovation](#vision-and-innovation) (28)
+
+## Solution Keynotes
+Session | Title | Speakers | Presentation | Views
+---|---|---|---|---
+CEIK2755LV | [Solution Keynote: Innovations to Accelerate Your Enterprise Cloud Transformation](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1684273276106001VcNh&videoId=6335412006112target=_blank>Watch) | Chad Skipper, Krish Prasad, Anu Kirpekar, Umesh Mahajan, Kojo Inkumsah | N/A | 41
+CEIK2764LV | [Solution Keynote: Everything Everywhere All at Once ??? Living on the Edge with VMware](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1684365520062001e58h&videoId=6335411429112target=_blank>Watch) | John Swieringa, Sanjay Uppal, Mariam Sorond | N/A | 36
+EUSK2765LV | [Solution Keynote: Harnessing the Power of Data and Intelligence for Today???s Changing Workplace ](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1684368358477001aOn2&videoId=6335413571112target=_blank>Watch) | Kristina Ross, Shankar Iyer, Marshall Anne Busbee, Nigitha Alugubelli, Jeff Ulatoski | N/A | 35
+K2906LV | [Technology Innovation Showcase](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1685578013572001foQ1&videoId=6335413669112target=_blank>Watch) | Kit Colbert, Jeff Boudier, Chris Wolf, Amanda Blevins | N/A | 63
+MAPK2762LV | [Solution Keynote: Accelerate Application Delivery for Continuous Innovation](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1684358543037001qlvJ&videoId=6335412304112target=_blank>Watch) | Johan Marais, Purnima Padmanabhan, Betty Junod, Whitney Lee | N/A | 53
+PARK3032LV | Partner Keynote | Sumit Dhawan, Ricky Cooper, Tracy-Ann Palmer, Eileen Gibson, Tara Fine, David McGraw | N/A | N/A
+SPK2763LV | [SpringOne Keynote: Accelerating Innovation with Spring](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1684360124621001fkiV&videoId=6335272728112_blank>Watch) | Joachim Pasquali, Purnima Padmanabhan, Leyla Seka, Tasha Isenberg, Josh Long, DaShaun Carter, Dave Syer, Moritz Halbritter, Cora Iberkleid, Violeta Georgieva, Adib Saikali, Asir Selvasingh, Oleg Zhurakousky, Juergen Hoeller, Mark Sailes | N/A | 145
+VIK2993LV | Modern-Day Explorers Keynote | Allison Crooker, Robert Ballard, Leland Melvin, Allie K. Miller | N/A | N/A
+
+## Cloud and Edge Infrastructure
+Session | Title | Speakers | Presentation | Views
+---|---|---|---|---
+CCSB1749LV | [Cloud-Smart Reference Architecture for Multi-Cloud and VMware Cross-Cloud Services](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680556534980001pQ6H&videoId=6335411224112target=_blank>Watch) | Simon Momber, Caio Oliveira, Amir Yanny | N/A | 6
+CEIB1051LV | [Deliver High-Performing Edge Services with Lumen Edge and VMware Edge ](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1677707022871001m8mN&videoId=6335500224112target=_blank>Watch) | Girish Manmadkar, Anthony Hakim | N/A | 0
+CEIB1138LV | [10 Amazing Innovations in vSphere+ to Accelerate Your Cloud Transformation](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1678335757940001PTX6&videoId=6335412605112target=_blank>Watch) | Dave Morera, Glen Simon | N/A | 6
+CEIB1139LV | [10 Big New Benefits of vSphere That You Absolutely Need to Know](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1678336288674001ArXY&videoId=6335411922112target=_blank>Watch) | Himanshu Singh, Ken Werneburg, F??idhlim O???Leary | N/A | 12
+CEIB1276LV | [Convergence of Network, Security and Compute at the Edge](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1679410895765001iiOT&videoId=6335503962112target=_blank>Watch) | Sadaf Jalal, Saqeb Akhter, Andrew Foerstner, Ciaran Roche | N/A | 0
+CEIB1521LV | [Accelerating Machine Learning in the Data Center](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680036681047001Aucu&videoId=6335412202112target=_blank>Watch) | Shawn Kelly, Justin Murray | N/A | 0
+CEIB1746LVD | 5 vSphere+ Features That Will Change the Way You Manage IT | Dave Morera, AJAY SHARMA | N/A | N/A
+CEIB2286LV | [Delivering Secure Cloud-Managed Data Services and Compliance](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681491080557001H2Ct&videoId=6335413475112target=_blank>Watch) | Cory Allen, Sangeeta Panigrahy | N/A | 1
+CEIB2294LV | [Deliver DRaaS with VMware Cloud Director Availability](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681492142807001gK9z&videoId=6335413179112target=_blank>Watch) | Omar Torres, Michael Honeycutt | N/A | 3
+CEIB2404LV | 45 Minutes of Virtually Speaking Live: Cloud Data Management | Sazzala Reddy, John Nicholson, Peter Flecha, Emad Younis, Jad El-Zein | N/A | N/A
+CEIB2484LV | [Are You Afraid of Adopting Private 5G? Address Your Fears with VMware Private Mobile Network](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681516389978001fd92&videoId=6335412108112target=_blank>Watch) | Ram Venketaramani, Carl Temme | N/A | 12
+CEIB2530LV | [5 Latest Innovations in Action ??? What's New in VMware Cloud on AWS](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682357604289001Sb4x&videoId=6335503663112target=_blank>Watch) | Sonali Desai, Matt Dreyer | N/A | 0
+CEIB2533LV | [Core Storage Best Practices: Optimizing NVMeoF and vSphere Virtual Volumes](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682437972312001ywJL&videoId=6335503964112target=_blank>Watch) | Cody Hosterman, Jason Massae | N/A | 0
+CEIB2540LV | [Availability and Resilience of Azure VMware Solution](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682449263920001loER&videoId=6335502105112target=_blank>Watch) | Jeremiah Megie, Steve Pantol, Amy Colyer | N/A | 0
+CEIB2557LV | [Accelerate Your Public Cloud Strategy with VMware Cloud](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682525670921001nUW7&videoId=6335502004112target=_blank>Watch) | Craig Stanley, Brett Tanzer, Narayan Bharadwaj | N/A | 0
+CEIB2561LV | [10 Exciting Things to Know About VMware Ransomware and Disaster Recovery](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682537432544001DLUN&videoId=6335412893112target=_blank>Watch) | Amit Sinha, Yoomi Hong, Greg Colburn | N/A | 9
+CEIB2562LV | [5 Steps to A Strong Ransomware Defense](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682538615542001KUoo&videoId=6335412507112target=_blank>Watch) | Su Glasgo, Belu de Arbelaiz | N/A | 6
+CEIB2563LV | [10 Innovations to Know About Google Cloud VMware Engine for Cloud Success](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682552004217001yjUd&videoId=6335501898112target=_blank>Watch) | Cheryl Young, Darin Schmitz | N/A | 0
+CEIB2571LV | Customer Case Study: Redesigning a Mission-Critical WAN to Drive Business | Charlie Hagen, Conor McCutcheon | N/A | N/A
+CEIB2574LV | [Customer Story: VMware SD-Access for Remote User and IoT Connectivity](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682709763486001O6AL&videoId=6335412399112target=_blank>Watch) | John Turner, Keith Bradley | N/A | 1
+CEIB2594LV | [Cyber Secure Storage and Data: VMware???s Next Storage Frontier?](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682987630744001lvap&videoId=6335411526112target=_blank>Watch) | Sazzala Reddy, Vijay Ramachandran | N/A | 6
+CEIB2638LV | [Easy vSphere Lifecycle and Configuration Management with vSphere and vSphere+](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683591797112001VMyw&videoId=6335504066112target=_blank>Watch) | Rupesh Shimkhada, Shanthala Gorur Ashwath | N/A | 0
+CEIB2642LV | [Crafting a Secure, Resilient and Cost-Effective IaaS Across Multi-Cloud](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683650904999001uJ0r&videoId=6335502111112target=_blank>Watch) | Prashanth Shenoy, Greg Russell, Andrew Nielsen | N/A | 0
+CEIB2648LV | [Deliver Hybrid Cloud to Modernize Infrastructure and Accelerate Innovation](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683664625051001ULMm&videoId=6335503282112target=_blank>Watch) | Jay Desai, Rick Walsworth | N/A | 0
+CEIB2652LV | Data Center Modernization ??? Day in the Life of a VMware Cloud Administrator | Tony Huynh, Kyle Gleed | N/A | N/A
+CEIB2679LV | A New Distributed Cloud Service Because Data Locality Matters | Kate Bignell, Heath Johnson | N/A | N/A
+CEIB2703LV | [Customer Panel: Accelerating Cloud Transformation with VMware Cloud on AWS](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683868846692001saZi&videoId=6335502701112target=_blank>Watch) | Sonali Desai, Robert Roday, test test1, Vanessa Little | N/A | 0
+CEIB2735LV | [Connectivity That Captivates ??? Industry Panel](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683991052978001N0NC&videoId=6335412800112target=_blank>Watch) | Stephen Spellicy, Debra Bradshaw, Brian Mengwasser, Michael Sherwood | N/A | 1
+CEIB2838LV | An Integrated Approach to Helping Telcos Meet Emerging Security Standards | Steven Hoenisch, Tuan Loc Nguyen | N/A | N/A
+CEIB2839LV | Balancing Risk and Performance for Sustainable ICT Networks | Frank EscarosBuechsel, Valentin Bondzio | N/A | N/A
+CEIB2895LVD | Banking Customer Future-Proofs with VMware SD-WAN and Windstream Enterprise | Chris Alberding | N/A | N/A
+CEIB2902LVD | Agile Security for the Grid with Edge Computing | Anthony Sivesind | N/A | N/A
+CEIB2905LVD | Case Study: VMware and MSP Partner to Create a Customized Networking Solution | Matt Fletcher, Rob Ford | N/A | N/A
+CEIB2919LVS | [A??First Class??Enterprise Ready??Hybrid Cloud Solution from Lenovo??and VMware](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1685997975167001yMW9&videoId=6335413074112target=_blank>Watch) | Mark Cadiz, Georg Edelmann, Kannan Mani | N/A | 0
+CEIB2948LVS | [Create your cloud : HPE GreenLake and VMware Cloud Foundation](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1686603667739001bw9F&videoId=6335412608112target=_blank>Watch) | Greg Caetano, Arshnoor Heera | N/A | 0
+CEIB2955LVS | [Accelerate end-to-end AI Pipelines on VMware](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1686793019647001eXUH&videoId=6335413568112target=_blank>Watch) | Abhay Chitral, Christine McMonigal | N/A | 3
+CEIB3010LVS | [Dell Technologies & VMware: Driving Transformation Together  ](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1688051913484001btAF&videoId=6335412801112target=_blank>Watch) | David McGraw, Varun Chhabra | N/A | 5
+CEIB3013LVS | [Cloud Scramble: Right Time & Place](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1688136276837001Giat&videoId=6335501909112target=_blank>Watch) | Bennett Bauer, James Miller | N/A | 0
+CEIB3018LVS | [Are you well architected? Transform VMware workload migration with AWS](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1688571010894001xPko&videoId=6335501638112target=_blank>Watch) | Aarthi Raju, Andy Reedy | N/A | 0
+CEIB3020LVS | [AWS keynote: Accelerate business transformation with VMware Cloud on AWS](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1688572636203001t0X6&videoId=6335504270112target=_blank>Watch) | Andy Reedy, Suzy Visvanathan | N/A | 0
+CEIB3022LVS | [Accelerate your data center exit with VMware Cloud on AWS for public sector](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1688584248331001mEOH&videoId=6335502707112target=_blank>Watch) | Jon Kerr, Jordan Roth | N/A | 0
+CEIB3037LVS | [Build advanced storage & network architectures for VMware Cloud on AWS](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1689118209527001Tawb&videoId=6335503783112target=_blank>Watch) | Talha Kalim, Ben Lipman | N/A | 0
+CEIB3043LVS | [Azure VMware Solution Lessons Learned:  Designing, Migrating, and Operating](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1689128915376001pgAy&videoId=6335503988112target=_blank>Watch) | Trevor Davis, Emad Younis, Joe Sarabia | N/A | 0
+CEIB3045LVS | [Bring Azure to your VMware vSphere environment on premises and in the cloud](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1689129380768001vmW8&videoId=6335504471112target=_blank>Watch) | Pang Ngernsupaluck, Aurnov Chattopadhyay, Lavanya Krishnan | N/A | 0
+CEIB3066LVS | [Agility and Resiliency for Oracle Workloads Using Oracle Cloud VMware Solution ](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1689385852620001Z4h2&videoId=6335503882112target=_blank>Watch) | Henry Villegas, Sudhir Balasubramanian | N/A | 0
+CEIB3093LVS | [Deliver AI and Gen AI experiences for your Business with Google Cloud ](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1689699291228001F5UV&videoId=6335413374112target=_blank>Watch) | Manoj Sharma, Harkanwal Bedi, Choudhury Sarada Prasanna Nanda | N/A | 2
+CODEB2761LV | [45 Minutes of NUMA ??? A CPU Is Not a CPU Anymore](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1684356199304001yg3R&videoId=6335413375112target=_blank>Watch) | Frank Denneman, Yu Wang | N/A | 9
+INDB2716LV | [Cloudy Career ??? How Public Sector Digital Transformation Improves Your Role](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683917154177001n4Ni&videoId=6335411430112target=_blank>Watch) | Dre Abadie, David Simmons, Jim Millard, Steven Ostrowski, Nathan Lewis | N/A | 2
+MAPB2239LV | Aha! Transition from VI Admin to Cloud Admin | Nate Lenoir, Rebecca Whaling, Alex Peay | N/A | N/A
+MAPB2481LV | [A Look into Penske???s Observability with VMware Aria Operations for Applications](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681515912656001URNy&videoId=6335411226112target=_blank>Watch) | Muhammad Khan, Rachna Srivastava, Chandra Thondappa | N/A | 2
+VMTN2597LV | Accelerating Oracle Workloads with VMware Accelerators and Best Practices | Sudhir Balasubramanian | N/A | N/A
+VMTN2768LV | VMware Skyline ??? The Race to Zero | Matt Puthoff | N/A | N/A
+VMTN2772LV | Have You Hugged Your Global Support Services TSE Today? | Matt Puthoff | N/A | N/A
+VMTN2798LV | Resilient IT Architecture in a Multi-Cloud World | Waldemar Pera | N/A | N/A
+VMTN2801LV | How to Build a VMware Multi-Cloud with VMware Cloud Director Service | Joseph Polcar | N/A | N/A
+VMTN2804LV | How to Provide Kubernetes as a Service with VMware Tanzu and VMware Cloud Director Container Service Extension | Sascha Schwunk, Paschek Tobias | N/A | N/A
+VMTN2805LV | VMware Cloud Director ??? Design and Deploy ??? 2023 Edition | Matthias Eisner, Paschek Tobias | N/A | N/A
+VMTN2808LV | Accelerate Enterprise Cloud Transformation Using VMware Hybrid Cloud | Sidharth Swami | N/A | N/A
+VMTN2812LV | Making the Most of Your Home Lab | Sean Massey | N/A | N/A
+VMTN2813LV | What Minecraft Has Taught Me About Automating VM Template Builds | Sean Massey | N/A | N/A
+VMTN2818LV | The Art of Future-State Architecture | Shawn Kelly, John Arrasjid | N/A | N/A
+VMTN2821LV | Positive Mentorship in Tech | David Young | N/A | N/A
+VMTN2826LV | Simplifying Multi-Cloud Strategy: VMware HCX for Hybrid Cloud Extension | Caio Oliveira | N/A | N/A
+VMTN2827LV | Bridging the Gap: Digital Transformation with VMware Cloud on AWS | Caio Oliveira | N/A | N/A
+VMTN2828LV | A Deep Dive into Google Cloud VMware Engine Capabilities and Best Practices | Caio Oliveira | N/A | N/A
+VMTN2829LV | Embracing Hybrid Cloud: Azure VMware Solution for Innovation and Growth | Caio Oliveira | N/A | N/A
+VMTN2834LV | Optimized VMware Cloud Foundation for Cloud Providers | Girish Manmadkar, Troy Foster | N/A | N/A
+VMTN2835LV | VMware Cloud Foundation 5.0 Deployment Options for Cloud Solutions Providers (CSPs) | Girish Manmadkar | N/A | N/A
+VMTN2836LV | Kubernetes as a Service Powered by VMware Cloud Director | Girish Manmadkar | N/A | N/A
+VMTN2853LV | Cloud Evolution with AI | Chris Gully, John Arrasjid | N/A | N/A
+VMTN2857LV | VMware Aria Operations Benchmark Compliance: Build on the Foundation Provided | Matt Puthoff | N/A | N/A
+VMTN2864LV | vSphere Virtual Volumes for Scalability, BC/DR and Performance for Workloads with Pure Storage | Sudhir Balasubramanian | N/A | N/A
+VMTN2865LV | Capacity and TCO Benefits to Applications Using VMware Memory Tiering | Sudhir Balasubramanian, Arvind Jagannath | N/A | N/A
+VMTN2866LV | Architecting Oracle Workloads from On-Premises to VMware Hybrid Multi-Cloud | Sudhir Balasubramanian | N/A | N/A
+VMTN3052LV | 5 Tips To Secure Your Backups Today | Matt Crape | N/A | N/A
+VMTN3053LV | Beyond Backup: Ultimate VMware Monitoring With Veeam ONE | Kirsten Stoner | N/A | N/A
+VMTN3054LV | How To Build Intelligent Grid Virtualization at the Edge With Dell & VMware | Lalit Lopez | N/A | N/A
+VMTN3055LV | Securely Scale Your Edge Operations With Dell NativeEdge | Thomas Wallen | N/A | N/A
+VMTN3056LV | Streamlining Operations: Customer Environment Transitions Pre & Post VxRail | William Leslie | N/A | N/A
+VMTN3057LV | Real World Use Cases for Seamless Edge-to-Core Deployments With VxRail | Daniel Chiu, Scott Forehand | N/A | N/A
+VMTN3067LV | Get Caught Up With vSphere 8 Features and Upgrade Best Practices | Ariel Sanchez, Christina Griffus | N/A | N/A
+VMTN3068LV | vSphere Cluster Design ??? Why It???s More Important Than Ever | William Huber, Mark Gabryjelski | N/A | N/A
+VMTN3070LV | Ask the Multi-Cloud vExperts | Justin Brandon | N/A | N/A
+VMTN3071LV | Bring vCenter Into Azure Arc With PowerShell and PowerCLI | Mike Nelson | N/A | N/A
+VMTN3076LV | Infrastructure-As-Code in 11 Minutes & 59 Seconds | Mike Nelson | N/A | N/A
+VMTN3077LV | A Pragmatic Approach to vVols Adoption | Tristan Todd | N/A | N/A
+VMTN3078LV | Target With Tags: Automated Methods of SPBM Policy Assignment | Tristan Todd | N/A | N/A
+VMTN4111LV | HPE GreenLake for VCF: Agility by Sharing the Operations Responsibility | Greg Caetano | N/A | N/A
+VMTN4383LV | Revolutionizing It Operations: Unleashing the Power of AIOps | Mike McDonough | N/A | N/A
+CCSB1742LVD | Sovereign Cloud Providers in the Multi-Cloud World | David Rollins, Stan Kwong | N/A | N/A
+CEIB1068LV | [Lifecycle Management Across Clouds: The VM Service and Cloud Consumption Interface](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1677777402341001P17J&videoId=6335413471112target=_blank>Watch) | Michael West, Jeremy Wolf | N/A | 0
+CEIB1099LV | [Increasing Availability and Resilience with VMware vSAN Stretched Clusters](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1678127181244001RqXK&videoId=6335502100112target=_blank>Watch) | Duncan Epping, Vivek Pamadi | N/A | 0
+CEIB1304LV | [Modernizing Applications for Telco of the Future](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1679458019633001DUU2&videoId=6335503474112target=_blank>Watch) | Alberto Resco Perez, Danny V Suyanto | N/A | 0
+CEIB1424LV | Get Savings and ROI for Self-Managed or Partner-Managed Cloud | Bryan Buckland, Girish Manmadkar | N/A | N/A
+CEIB1557LVD | Simplify Infrastructure Management with vSphere Automation Tools | Angel Petrov, Kiril Karaatanassov | N/A | N/A
+CEIB1623LVD | Expert Recommendations for Running Workloads on VMware Cloud Infrastructure | Christian Rauber, John Nicholson | N/A | N/A
+CEIB1787LV | [How to Use VMWare Cloud Foundation For Your Workloads At Scale?](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680706598876001of2l&videoId=6335412607112target=_blank>Watch) | Priya Patel, Joy Ghosh | N/A | 2
+CEIB1975LV | [Keep the Attackers Out: Infrastructure Security Hardening and Auditing](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681315616320001t8IP&videoId=6335411729112target=_blank>Watch) | Bob Plankers, Joshua Solomin | N/A | 0
+CEIB2147LV | [Exploring the Merits of Automation and Orchestration with VMware and DISH Wireless](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681426541244001kR74&videoId=6335412107112target=_blank>Watch) | Prakash Srinivasan, Moshe Lavi | N/A | 1
+CEIB2276LV | [How to Deliver a Complete Multi-Cloud Service with VMware Cloud Director](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681490302083001JiSe&videoId=6335413474112target=_blank>Watch) | Steve Lord, Guy Bartram | N/A | 1
+CEIB2299LVD | NSX Advanced Load Balancer Services for VMware Cloud Services Provider Partners | Nikolay Patrikov | N/A | N/A
+CEIB2468LV | [Edging Ahead Data-Driven Decisions for Edge AI with RabbitMQ and OpenVino](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681514289624001A2eU&videoId=6335501831112target=_blank>Watch) | Marilyn Basanta, Jamie Monserrate | N/A | 0
+CEIB2531LV | [Power of Integration: Leverage AWS Native Services with VMware Cloud on AWS](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682357991744001U0g5&videoId=6335502870112target=_blank>Watch) | Hitendar Sethi, Osama Masfary | N/A | 0
+CEIB2543LV | [It's a Match???How HCI and VMware Aria Unlocks Your Data Center's Potential](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682450982452001C52O&videoId=6335411620112target=_blank>Watch) | Thomas Nagelmeyer, Adam Little | N/A | 4
+CEIB2560LV | [Ransomware Recovery Customer and Partner Panel](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682537193477001tlUi&videoId=6335411829112target=_blank>Watch) | Mark Chuang, Jim Smith, Mark Vaughn, Brett Foy | N/A | 4
+CEIB2572LV | [Gain Actionable Insights from Thousands of VMware SD-WAN/VMware SASE Deployments](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682708466475001J0Nu&videoId=6335502976112target=_blank>Watch) | Lily Schneiderman, Adam Logan | N/A | 0
+CEIB2578LV | [Fortify Your Branches with Enhanced Firewall Service for VMware SD-WAN ](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682710735313001PIpv&videoId=6335411427112target=_blank>Watch) | Sadaf Jalal, Aamer Akhter, Jon Lloyd | N/A | 0
+CEIB2580LVD | How to Select the Right Storage Option for Your Workload Needs | Oliver Romero, Amit Sinha | N/A | N/A
+CEIB2583LV | [Ransomware Recovery: What Comes After XDR?](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682716292693001YTRf&videoId=6335502699112target=_blank>Watch) | James Ellis, Mike McLaughlin | N/A | 0
+CEIB2593LV | [Elevate Your Cloud Strategy with Oracle Cloud VMware Solution](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682984549968001o7vj&videoId=6335501526112target=_blank>Watch) | Audrey Bian, Bryan Hoopmann | N/A | 0
+CEIB2613LV | [How VMware Innovation Is Shaping Global Market Agendas with Sovereign Cloud](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683136600827001V3gL&videoId=6335501234112target=_blank>Watch) | Darren Hopper, Jon Waite, Madhup Gulati | N/A | 0
+CEIB2653LV | [Multi-Cloud: Framework for Designing an Optimal Multi-Cloud Strategy](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683731463318001kMrn&videoId=6335412983112target=_blank>Watch) | Raakhee Mistry, Nikola Zarecki, Roxanne Valies, Adrian Woodward, Prab kalra | N/A | 3
+CEIB2654LV | Securing Hybrid Cloud: Enhancing Security and Compliance Across Multi-Cloud | Matt Dreyer, Calvin Chai | N/A | N/A
+CEIB2655LV | Embracing Subscription and SaaS: Seamless Transition with Tailored Programs | Stuart Castillo, Jitendra Dangi | N/A | N/A
+CEIB2875LVD | New Capabilities for VMware Cloud on AWS GovCloud (US) | test test1, David Chung | N/A | N/A
+CEIB2922LVS | [Leverage AI, ML & Network-as-a-Service to Enhance Cloud and Edge Efficiency](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1686005890050001Y2S3&videoId=6335412894112target=_blank>Watch) | Troy Foster, jeff sieracki, Abhilasha Choudhri, David Shacochis | N/A | 3
+CEIB2924LVS | [Modernize Hybrid Multi-Cloud Environments - NetApp Customer Case Studies](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1686010492215001ieuK&videoId=6335412109112target=_blank>Watch) | Jason Kotsaftis, Mark Sahadeo, LeRoy Vanek | N/A | 1
+CEIB2949LVS | [Panel: Successful transformations with VMware Cloud on AWS](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1686615878538001Grfo&videoId=6335412110112target=_blank>Watch) | Josh Wolfe, Azi Handley, Guninder Bagga, Ashish Dhawan | N/A | 2
+CEIB2951LV | [Embracing the Future of Networking at the Edge with Cox Edge and VMware](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1686673161356001FOus&videoId=6335501632112target=_blank>Watch) | Andrew DeLorenzo, Milind Honrao, Dave Comery | N/A | 0
+CEIB2974LVS | [Empower Your Defences:  New Cloud Tools for Securing Vital Applications Against Ransomware](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1687369764323001yle5&videoId=6335413281112target=_blank>Watch) | Dave Mitchell, Mark Precious | N/A | 0
+CEIB2992LVS | [Optimize Database Performance with VMware, AMD, and Oracle Cloud ](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1687475912582001IwNy&videoId=6335412609112target=_blank>Watch) | Praveen Kumar Pedda Vakkalam, Bob Goldsand, Todd Muirhead, Dilip Ramachandran | N/A | 2
+CEIB3030LVS | [Exploring Latest Innovations: What's New with Oracle Cloud VMware Solution ](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1688774651419001hJf3&videoId=6335504467112target=_blank>Watch) | Subha Shankar, Jonathan Copeland | N/A | 0
+CEIB3038LVS | [Migrate and Modernize with Cloud Solutions from Azure VMware Solution](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1689127238007001KIlK&videoId=6335503385112target=_blank>Watch) | Amit Aneja, Justin Jakowski, Emad Younis | N/A | 0
+CEIB3042LVS | [Microsoft Executive Keynote:  Transform your VMware workloads with Azure ](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1689128635081001QUJs&videoId=6335502883112target=_blank>Watch) | Brett Tanzer, Jeff Woolsey | N/A | 0
+CEIB3044LVS | [Pave the way to innovation with Azure, Azure Arc, Windows & SQL Server!](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1689129149945001vgua&videoId=6335502310112target=_blank>Watch) | Jeff Woolsey | N/A | 0
+CEIB3058LVS | [Ensuring Business Continuity with Veeam and Oracle Cloud VMware Solution](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1689302373014001A5a4&videoId=6335502028112target=_blank>Watch) | Edwin Arcilla, Matt Crape | N/A | 0
+CEIB3064LVS | [Executive Keynote: Oracle Cloud, A Comprehensive Platform for VMware](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1689372277121001Whzv&videoId=6335502313112target=_blank>Watch) | Ross Brown, Narayan Bharadwaj | N/A | 0
+CEIB3065LVS | [Fortify Oracle Cloud VMware Solution with Dell PowerProtect Data Protection](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1689373395337001buGr&videoId=6335503302112target=_blank>Watch) | Steve Long, Steven Nelson | N/A | 0
+CEIB3084LVS | [Google Keynote: GCVE Innovations ??? Flexible Nodes, Networking, and Security](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1689633616355001pYzn&videoId=6335503883112target=_blank>Watch) | Manoj Sharma, Saiganesh Gopalan | N/A | 0
+CEIB3085LVS | [Google Cloud VMware Engine storage options, First Party Backup & Recovery and More](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1689634065320001damp&videoId=6335503306112target=_blank>Watch) | Craig Fletcher, Manish Lohani | N/A | 0
+CEIB3086LVS | [Google Cloud VMware Engine: Automate with Terraform, Google Cloud API/CLI ](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1689634497790001Hqhv&videoId=6335504371112target=_blank>Watch) | Matthew Mendonza, Amol Palshikar | N/A | 0
+CEIB3088LVS | [Learn How Partners Can Help You Derive Value Faster with GCVE](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1689635323990001zhyp&videoId=6335503996112target=_blank>Watch) | Brant Scalan | N/A | 0
+CEIB3092LVS | [Google Cloud VMware Engine: Networking and Security Deep Dive](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1689698979049001Zeyz&videoId=6335503309112target=_blank>Watch) | Ken Bocchino, Marcos Hernandez, Swati Deshpande | N/A | 0
+CEIB4112LV | [Next-Generation HPE ProLiant with VMware vSAN Express Storage Architecture](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1691428787371001mUvD&videoId=6335504186112target=_blank>Watch) | Andrew Leber, Adisa Rifha | N/A | 0
+CEIT1319LVR | [Extreme Performance Series: Performance Best Practices](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1691508291036001aZNe&videoId=6335411131112target=_blank>Watch) | Mark Achtemichuk, Valentin Bondzio | N/A | 1
+CSXB2334LV | [Private Cloud Transformation: Building First Citizens Bank???s SDDCs](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681496685743001chsr&videoId=6335503497112target=_blank>Watch) | David Downey, Tejodher Muppidi | N/A | 0
+INDB2221LV | Integrated MLOps ??? Accelerating AI-Powered Finance with VMware | Paul Nothard, Yuval Zukerman | N/A | N/A
+VIB1154LV | Empower Sustainable Cloud, from VMware Zero Carbon Committed to 24x7 Hourly Match | Geraldine Moloney, Zhelong Pan, Meriem Bekka | N/A | N/A
+VIB2169LV | [Scaling and Deploying ESXi at the Edge with Desired State Management and GitOps](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681444571245001DLgD&videoId=6335503007112target=_blank>Watch) | Elliott Davis, Alan Renouf, Anand Srinivas | N/A | 0
+CCSB1741LVD | What You Should Know Before Cloud Repatriation | Daniel Flaherty | N/A | N/A
+CCSB1883LV | [Top 5 Customer Multi-Cloud Challenges with Key Insights from VMware and Deloitte](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681148281132001DG4H&videoId=6335424406112) | Alexander Romero, David Linthicum, Leanne Jones | N/A | 0
+CEIB1101LV | [Tech Deep Dive: vSAN 8 ESA???Performance and Resilience Without Compromise](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1678128431389001wkvi&videoId=6335501828112target=_blank>Watch) | Duncan Epping, Pete Koehler | N/A | 0
+CEIB1433LV | The Enterprise Playbook for Operational Readiness for Azure VMware Solution | Miguel Arellano, Shridhar Deuskar, Chris Willingham | N/A | N/A
+CEIB1621LV | [Unlock the Full Potential of Your Modern Apps with K8s on VMware Cloud Platform](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680206710965001duSP&videoId=6335411619112target=_blank>Watch) | Christian Rauber, Charles Lee | N/A | 1
+CEIB1777LV | [Unleashing vSAN ESA ??? An Exploration of HCI and dHCI Deployment Options](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680644949618001vaFJ&videoId=6335412005112target=_blank>Watch) | Kristopher Groh, Kalyan Krishnaswamy | N/A | 6
+CEIB1919LV | [State of Idaho: How to Modernize a State from A to Z](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681243914079001rSrP&videoId=6335412398112target=_blank>Watch) | Didier Gaudin, Michaela Geszvain, Tyler Jackson, Michael Vance | N/A | 1
+CEIB2440LV | [State of Montana: From Big Sky Country to DR in the Cloud](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681509926901001ofO1&videoId=6335503768112target=_blank>Watch) | Matt Van Syckle | N/A | 0
+CEIB2447LV | State of Alaska: Rapid Cloud Migration from the Last Frontier | Niel Smith | N/A | N/A
+CEIB2460LV | VMware Edge Innovation: In Vehicle Apps with Mobile Intelligent Edge | Charles Cockshoot, Steve Conn, Brent Wild | N/A | N/A
+CEIB2465LV | [VMware Edge Compute Stack ??? Practical Use Cases and Solutions](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681514001293001PQFn&videoId=6335412981112target=_blank>Watch) | Felix Kretschmer, Benjamin Brillat, Kangwarn Chinthammit | N/A | 10
+CEIB2485LV | [VMware Private Mobile Network: Purpose-Built Solution to Adopt Private 5G](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681516544965001Pztl&videoId=6335503074112target=_blank>Watch) | Sameer Naik, Kyle Allen | N/A | 0
+CEIB2489LV | [Transforming the Retail Experience with VMware Edge Compute Stack](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681516690360001niUb&videoId=6335501832112target=_blank>Watch) | Abhilasha Choudhri, Eric Cheung-Young-Sen | N/A | 0
+CEIB2548LV | [Supercharge Google Cloud VMware Engine Infrastructure with Native Services](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682462694648001WYae&videoId=6335501833112target=_blank>Watch) | Eric Gray | N/A | 0
+CEIB2549LV | [Speed Your Azure Migration with the Latest Azure VMware Solution Features](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682465421547001lREo&videoId=6335501621112target=_blank>Watch) | Eric Horschman, Joe Sarabia, Amy Colyer | N/A | 0
+CEIB2550LV | Technical Deep Dive ??? Oracle Cloud VMware Solution | Jatin Purohit, Prateek Jain | N/A | N/A
+CEIB2558LV | [VMware Cloud on AWS: Deep Dive into Architecture and Design](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682526098081001TsgL&videoId=6335501897112target=_blank>Watch) | Aditi Pandey, Niels Hagoort | N/A | 0
+CEIB2568LV | [VMware Cloud Services Provider Strategy and Roadmap Overview](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682705235840001pyAY&videoId=6335502778112target=_blank>Watch) | Rajeev Bhardwaj, JIm Aluotto | N/A | 0
+CEIB2569LV | [The State of the Art for Securing Internet and SaaS Applications](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682705890756001ySi0&videoId=6335501624112target=_blank>Watch) | Melanie Fontaine, Chris Donovan | N/A | 0
+CEIB2573LV | [VMware SD-WAN and VMware SASE: What's New and Next?](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682708911703001y1WR&videoId=6335502779112target=_blank>Watch) | Abe Ankumah, Dave Floyd, David Wight | N/A | 0
+CEIB2581LV | [VMware Cloud Flex Storage: A New Way to Store VMs on the Cloud](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1682715859085001LqMv&videoId=6335503867112target=_blank>Watch) | Mike McLaughlin, Oliver Romero | N/A | 0
+CEIB2610LVD | VMware Site Recovery Manager and vSphere Replication???A Technical Deep Dive | Cato Grace, Velina Krasteva | N/A | N/A
+CEIB2649LV | What's New with VMware Cloud Foundation and Operational Best Practices? | Tom Stephens, Ben Sier, Stephen Hudak | N/A | N/A
+CEIB2688LV | [Synergizing Dev Productivity and Cloud Brokering for Digital Transformation](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683820221839001iTuI&videoId=6335502980112target=_blank>Watch) | Taka Uenishi, Brian Cox, Ivan Oprencak | N/A | 0
+CEIB2863LV | [What's New in VMware Edge Compute Stack?](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1685028529469001qQ8j&videoId=6335502307112target=_blank>Watch) | Saadat Malik, Anand Srinivas | N/A | 0
+CEIB2874LVD | Top 5 Exciting Things About VMware Cloud on AWS Outposts | Aditi Pandey, Ganeshan S | N/A | N/A
+CEIB2893LVD | Transforming Businesses with VMware SDWAN-centric Global Private Network & SASE POPs | Mike Chase, Ahmed Alsharif | N/A | N/A
+CEIB3000LVS | [Using AWS & VMware solutions synergy for developer & DevOps success](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1687878692169001RCo2&videoId=6335503673112target=_blank>Watch) | Elvis Pappachen, Samir Kadoo, Sudha Thillai Govindarajan | N/A | 0
+CEIB3051LV | Using NVIDIA AI Frameworks for Large Language Models and Generative AI on VMware VCF and vSphere | Justin Murray, Frank Denneman, Vinay Bagade | N/A | N/A
+CEIB3059LVS | [The Next Big Thing from Pure Storage and Microsoft Azure](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1689346886116001sbj0&videoId=6335502589112target=_blank>Watch) | Kyle Grossmiller, David Stamen | N/A | 0
+CEIB3091LVS | [What's New: Google Cloud Enterprise Infrastructure Foundations and GCVE](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1689698640295001wRWm&videoId=6335413282112target=_blank>Watch) | Ash Ashutosh, Ken Bocchino | N/A | 6
+CODEB2757LV | [State of Union for VMware Home Labs](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1684345049187001lMgl&videoId=6335502035112target=_blank>Watch) | William Lam | N/A | 0
+CODEB2862LV | [vSphere Automation Solutions ??? PowerCLI vs. Terraform](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1685010294521001WtJY&videoId=6335412008112target=_blank>Watch) | Kamen Nikolov, Kyle Ruddy | N/A | 5
+INDB2628LV | What Is Going on in the World of Energy Technology? | Thomas Masters, Joe Suchara, Christopher Milliet, Scott Massie, Herman Leong | N/A | N/A
+
+## Hybrid Workforce
+Session | Title | Speakers | Presentation | Views
+---|---|---|---|---
+EUSB1227LV | Help, My VDI Is Slow ??? Boost Productivity with Digital Employee Experience for Horizon | Kristina De Nike, James Kelly | N/A | N/A
+EUSB1317LV | [Radically Simplify Your Published App Architecture with Apps on Demand](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1679503478552001pKmw&videoId=6335503999112target=_blank>Watch) | Jeff Ulatoski, James Kelly, Tom Wildt | N/A | 0
+EUSB1373LV | [Horizon Cloud Service - Next-Gen Deep Dive: Everything You Need to Know](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1679672438437001ZSFQ&videoId=6335503889112target=_blank>Watch) | Graeme Gordon, Richard Terlep | N/A | 0
+EUSB1379LV | Contain VDI Costs While Contributing to Your Bottom Line | Hans Bader, Charlotte Bowditch | N/A | N/A
+EUSB1569LV | [Unleashing the power of Freestyle Orchestrator ](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680115193816001abd6&videoId=6335503690112target=_blank>Watch) | Nigitha Alugubelli, Jeff Brummer | N/A | 0
+EUSB1855LVD | Using the High-Low Approach for Tackling Difficult Endpoints and Users | Aaron Black, Josh Burris | N/A | N/A
+EUSB1856LV | Addressing the Risk Riddle: Managing Vulnerability, Exposure and Remediation | Aaron Black, Benjamin Tedesco | N/A | N/A
+EUSB1859LV | [Deep Dive: Troubleshooting Windows ??? UEM Style](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680891659753001Nw3Z&videoId=6335412985112target=_blank>Watch) | George Gritten, Chris Halstead | N/A | 0
+EUSB1870LVD | Drive a VMware Horizon Environment Like a Ferrari: Field Learning from a Global Account | Mazhar Hussain Warsi | N/A | N/A
+EUSB1910LV | [Deep Dive into 10x More Performant Cloud Native Workspace ONE UEM](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681236951030001T225&videoId=6335413570112target=_blank>Watch) | Benjamin Jacoby, Aditya Kunduri | N/A | 3
+EUSB1923LV | [Reimagining Mobile UEM with Desired State Management](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681247102105001OZnr&videoId=6335411337112target=_blank>Watch) | Adam Henry, Manuel Perez | N/A | 5
+EUSB1969LV | [Best Practices for Managing Devices in Frontline Scenarios](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681313022021001rGi9&videoId=6335503312112target=_blank>Watch) | Bhavesh Kumar, Daren Samson | N/A | 0
+EUSB2059LV | [The Art of Modern Mac Management with Workspace ONE](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681398729686001hBMO&videoId=6335501927112target=_blank>Watch) | Paul Evans, Kat Orta | N/A | 0
+EUSB2168LV | [What???s New in Horizon 8 and How to Upgrade Today](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681442582131001ijpw&videoId=6335503890112target=_blank>Watch) | Kristina De Nike, Angela Ge, Shashi Kant | N/A | 0
+EUSB2188LVD | Honey, I Moved the Desktop to the Cloud ??? A Hybrid Work Journey | Jens Hennig, Reinhard Partmann | N/A | N/A
+EUSB2218LV | [Revolutionizing Windows Update Management: From Chaos to Control](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681479048528001es0y&videoId=6335503891112target=_blank>Watch) | Josh Burris, Grischa Ernst | N/A | 0
+EUSB2515LVD | From Pilot to Production: How to Manage Linux and IoT Endpoints at Scale | Jon Duncan | N/A | N/A
+EUSB2526LV | What's New in VMware Anywhere Workspace | Bharath Rangarajan, Jack Madden, Kevin Goodman | N/A | N/A
+EUSB2527LV | Data Science Deep Dive in Anywhere Workspace, and What AI Means for EUC | Johan Van Amersfoort, Hayden Davis | N/A | N/A
+EUSB2629LV | How VMware and Partners Work Together to Solve Your Hybrid Work Use Cases | Christopher Reed, Matt Egan, Jim Medell, Rajeev Vijan | N/A | N/A
+EUSB2722LV | [Digital Employee Experience Decoded: What Is It, and Why Should You Care](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683921437748001EL0S&videoId=6335411621112target=_blank>Watch) | Nick Brouillette, Marshall Anne Busbee | N/A | 4
+EUSB2723LV | [Maximize Employee Engagement: Strategies to Empower Your End Users](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683921576898001YCvl&videoId=6335413075112target=_blank>Watch) | Adarsh Kesari, Kevin Ten Eyck | N/A | 2
+EUSB2724LV | [Supercharge Your Service Desk: How to Accelerate Issue Remediation](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683921762491001V0EY&videoId=6335502443112target=_blank>Watch) | Pooja Chengappa, Partheeban Kandasamy | N/A | 0
+EUSB2725LV | [Improve Digital Experience and Lower Costs with AI, Analytics and Automation](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683921963000001vjY9&videoId=6335501928112target=_blank>Watch) | Scott Kelley, Robert Coggins | N/A | 0
+EUSB2726LV | How to Leverage DEX Tools to Optimize Your Frontline Business | Mitch Berk, James Fuller, Nick Brouillette | N/A | N/A
+EUSB2727LV | [Am I Being Phished? ??? Protect Your Mobile Users with Workspace ONE Mobile Threat Defense](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683922512084001SEAC&videoId=6335412402112target=_blank>Watch) | Andreano Lanusse, Martin Kniffin, Adarsh Kesari | N/A | 3
+EUSB2728LV | [Accelerate Zero Trust: Vision and Practical Projects with NIST and VMware Workspace ONE](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683922972991001Ysja&videoId=6335502317112target=_blank>Watch) | Steve DeJarnett, Murugiah Souppaya, Peter Bjork, Martin Kniffin | N/A | 0
+EUSB2732LV | [Consolidating Your VDI and App Platform from Citrix to Horizon](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683935131674001JOMu&videoId=6335501931112target=_blank>Watch) | Rob Beekmans, Simon Cottrell | N/A | 0
+EUSB2733LV | [App Volumes 4: Changing the App Delivery Game ](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683935618946001pxJU&videoId=6335413283112target=_blank>Watch) | Roxanne Valies, Jeff Ulatoski, LeRoy Vanek | N/A | 8
+EUSB2734LV | [Horizon DaaS and Microsoft Virtualization Solutions:??The Path to the Cloud](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683936041233001Dl03&videoId=6335412303112target=_blank>Watch) | Shikha Mittal, Christiaan Brinkhoff, Deb Dubrow, Al Solorzano | N/A | 4
+EUSB2882LVD | Top 5 Use Cases for Digital Employee Experience Management ??? Going Deep with DEEM | Cris Lau | N/A | N/A
+EUSB2939LVS | [Close Tickets Faster for a Better Virtual Desktop Experience with ControlUp](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1686161423719001JpHm&videoId=6335413478112target=_blank>Watch) | Trentent Tye, Dianna Marks | N/A | 0
+EUSB3046LVS | [Extending Windows in the Cloud with VMware Horizon ](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1689129731378001Y2TB&videoId=6335504581112target=_blank>Watch) | Scott Manchester | N/A | 0
+EUSB3087LVS | [Horizon on Google Cloud VMware Engine: Deployment and Migration Deep Dive](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1689634720967001OYqd&videoId=6335504483112target=_blank>Watch) | Ryan Costello, Daniel Berkowitz | N/A | 0
+INDB1326LV | Teleradiology: Ensuring Dependable Workflows for Remote Radiologists | BreAnne Buehl, Peter Shen, Kellie Larkin, Abe Ankumah | N/A | N/A
+VMTN2811LV | Hybrid and Multi-Cloud Desktops and Applications ??? Your Questions Answered | Sean Massey | N/A | N/A
+VMTN2816LV | Horizon Cloud Service on Azure: Tales from the Field | matt langguth | N/A | N/A
+VMTN2822LV | How Fat Is Your Thin Client? | Tom Fenton | N/A | N/A
+VMTN2833LV | Speed Up Slow Horizon Logons | Trentent Tye | N/A | N/A
+VMTN3069LV | Ask the EUC vExperts | Sean Massey, Jon Towles | N/A | N/A
+VMTN3081LV | AI on the Horizon: Delivering Virtualized AI Environments to Students | Tony Foster | N/A | N/A
+VMWB1402LV | [Discover the Journey VMware IT Took to Achieve Zero Trust](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1679684489926001neSJ&videoId=6335412807112target=_blank>Watch) | Robert Coggins, Daniel Sanford, Craig Savage, Aju Sukumaran | N/A | 14
+
+## Modern Applications & Cloud Management
+Session | Title | Speakers | Presentation | Views
+---|---|---|---|---
+CEIB1318LV | [Lessons Learned from the Most Complex VMware Aria Automation 7 to 8 Migration to Date](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1679505874020001srL2&videoId=6335412606112target=_blank>Watch) | Lucho Delorenzi, Pontus Rydin | N/A | 7
+CEIB1501LV | [How to Supercharge Your Migration to vSAN Express Storage Architecture](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680021494709001AxIS&videoId=6335413473112target=_blank>Watch) | Parag Joshi, Jeff Hunter | N/A | 0
+CEIB2296LV | Delivering Application Monitoring Services in Cloud | Guy Bartram, Nico Guerrera | N/A | N/A
+CEIB2614LV | [Elevate Your Application Modernization Journey with a Developer-Ready Cloud](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683137196423001dGrh&videoId=6335502875112target=_blank>Watch) | Manish Arora, Stephen Evanchik | N/A | 0
+CODEB1158LV | [Automating Kubernetes Management with Terraform and Tanzu Mission Control](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1678439242292001zdCc&videoId=6335504574112target=_blank>Watch) | Scott Rosenberg | N/A | 0
+CODEB1792LV | [Get Kubernetes Clusters Under Control with VMware Tanzu Mission Control](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680713748763001ynoS&videoId=6335412007112target=_blank>Watch) | Pawel Piotrowski | N/A | 3
+MAPB1059LV | [Let Developers Be Developers ??? How Tanzu Application Platform Powers Accuris??? Lumina Platform](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1677722171958001Mqtj&videoId=6335411527112target=_blank>Watch) | Mark Carlson, Hossein Panahi | N/A | 1
+MAPB1081LV | DevSecOps the VMware Way | Oren Penso | N/A | N/A
+MAPB1281LV | [Automate Kubernetes Platform Ops with VMware Tanzu for Kubernetes Operations](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1679423084528001yt8j&videoId=6335412206112target=_blank>Watch) | Darin Zook, Boskey Savla, Tim Hansen | N/A | 3
+MAPB1574LV | [Better Together ??? How VMware and Pixie Partner to Observe the Digital World](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680127769254001WGzS&videoId=6335504285112target=_blank>Watch) | Paul Allen, Michelle Nguyen, Ala Dewberry | N/A | 0
+MAPB1764LVD | A Platform Engineer's Guide to Tanzu Application Platform | Myles Gray | N/A | N/A
+MAPB1768LV | [Friends Don't Let Friends Build a Developer Platform](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680609070712001rubg&videoId=6335503401112target=_blank>Watch) | Keith Lee, Scott Rosenberg, Adib Saikali, Boskey Savla, Jonathan Regehr | N/A | 0
+MAPB1815LV | [Achieve AI/ML-Based Insights with Full-Stack Contextual Observability](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680791237401001Qsfz&videoId=6335502612112target=_blank>Watch) | Rachna Srivastava, Ciaran Byrne | N/A | 0
+MAPB1869LV | Lessons Learned: How HITACHI Leverages Tanzu Application Platform in Large Systems Integration | Shuhei Nojiri | N/A | N/A
+MAPB2122LV | A Decade of Platform Engineering with VMware Tanzu | Nick Kuhn, Pawel Piotrowski, Jonathan Regehr, Venkat Jagana, Kerry Schaffer | N/A | N/A
+MAPB2137LV | [How to Build a FinOps Practice as You Transition to the Cloud](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681424998217001NDB4&videoId=6335502446112target=_blank>Watch) | Lucas Paratore, Ashley Hromatko | N/A | 0
+MAPB2354LV | [Building Modern Applications to Rehabilitate California's Prison Population](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681500203279001LnaM&videoId=6335411731112target=_blank>Watch) | Jeffery Funk, Rose Fan | N/A | 1
+MAPB2355LV | [Get Started with Containers and VMware Tanzu: Zero to Kubernetes](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681500430000001dsvA&videoId=6335413076112target=_blank>Watch) | Bob Bauer, Thomas Kraus | N/A | 4
+MAPB2438LV | [From ClickOps to GitOps: A Kubernetes Evolution Story](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681509856048001dpvz&videoId=6335502904112target=_blank>Watch) | Rohan Mukesh, Nicholas Pier, alka gupta | N/A | 0
+MAPB2503LV | [A Customer???s View on What???s New with VMware Aria Operations for Networks](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681762898004001rgSV&videoId=6335413183112target=_blank>Watch) | Sesh Sayani, Erik Warnken, Ray Belleville, Pravin Goyal, Matt Just | N/A | 2
+MAPB2505LV | A Multi-Cloud Assessment and Migration with VMware Aria Migration | Sathyamurthy Dattathreya Hassan, Nick Bonifacio, Matt Just, Ken Nalbone | N/A | N/A
+MAPB2680LV | How VMware Uses Backstage to Create a Unified Internal Developer Portal | Kathy Koch, Andrei Zimin | N/A | N/A
+MAPB2694LV | [A Day in the Life of Developers ??? Kick-Start a Superior Developer Experience](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683831131480001p8Cg&videoId=6335504380112target=_blank>Watch) | Sanjeev Gautam, sriram krishnamachari, Corby Page, Nivedita Ghosh | N/A | 0
+MAPB2695LV | [How VMware IT Built a Robust Public Cloud Platform with VMware Aria](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683836101595001Ls0w&videoId=6335411925112target=_blank>Watch) | Sanjna Srivatsa, Marie Burke, Swapnil Hendre, Ravishankar Rao | N/A | 6
+MAPB2698LV | Centralized Global Operations for Multi-Cloud Using VMware Aria Operations | Sajan Liyon, Adrian Ayran | N/A | N/A
+MAPB2699LV | Kubernetes Management and Operations for VMware Cloud | Arkadiy Shapiro, Iwan Rahabok | N/A | N/A
+MAPB2700LV | [Extensibility and Content with VMware Aria on VMware Cloud](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683855376346001nkXK&videoId=6335411831112target=_blank>Watch) | Dennis Avondet, Ragav Gopalan | N/A | 2
+MAPB2777LV | [Accelerate App Delivery: Develop with VMware Tanzu](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1684519468178001TKFy&videoId=6335503895112target=_blank>Watch) | Lefteris Marakas, Kerry Schaffer | N/A | 0
+MAPB2778LV | [Accelerate App Delivery: Operate with VMware Tanzu](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1684519789299001d3ax&videoId=6335504673112target=_blank>Watch) | Darin Zook, Boskey Savla | N/A | 0
+MAPB2779LV | [Accelerate App Delivery: Optimize with VMware Aria](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1684519984199001XyKz&videoId=6335502726112target=_blank>Watch) | Rachna Srivastava, Mike Pawlowski | N/A | 0
+MAPB2780LV | [Accelerate App Delivery on VMware Clouds: Exploring the Power of VMware Tanzu and VMware Aria Cloud Management](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1684520192602001oqwB&videoId=6335412987112target=_blank>Watch) | Mark Leake, David Linthicum | N/A | 0
+MAPB2781LV | [Accelerate App Delivery & Centralize Management on Public Cloud with Tanzu & Aria](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1684520315365001iEa8&videoId=6335413284112target=_blank>Watch) | Simone Morellato, Oren Penso | N/A | 2
+MAPB2795LV | AI Powers New Use Cases with VMware Data Products | Ivan Novick, Ian Pytlarz | N/A | N/A
+MAPB2825LV | [An Introduction to VMware Tanzu Application Platform](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1684851958771001pRZR&videoId=6335413078112target=_blank>Watch) | Samuel Des Baux, Zach Robinson, Johan Marais | N/A | 7
+MAPB2841LV | [From PoC to Prod to Multi-Cloud: Customer Stories with VMware Technology](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1684872397908001Yn9m&videoId=6335503403112target=_blank>Watch) | Carol Pereira, Dennis Avondet, Juan Narvaiz | N/A | 0
+MAPB2843LV | [Automation Brilliance ??? Build Better Cloud Services](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1684880914565001sHjT&videoId=6335413285112target=_blank>Watch) | Tristan Todd, David Stamen | N/A | 4
+MAPB2868LV | [Discover Your Clusters, Back Them Up, and Manage Costs with VMware Tanzu and VMware Aria](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1685037660451001LSIS&videoId=6335503319112target=_blank>Watch) | Nipun Agarwal, Pavan Chavva | N/A | 0
+MAPB2869LV | Aria Automation for Management of Public Cloud Environments and Workloads | Shanky Chandra Gowri, Meena Girish, Brandon How, Robert Jones | N/A | N/A
+MAPB2871LV | [A Unique Approach to Automate and Scale Governance in Cloud Environments](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1685045924662001Fqpx&videoId=6335503504112target=_blank>Watch) | Jyoti Sharma, Emily Wong | N/A | 0
+MAPB2888LVD | AI/ML and Cloud: Better Together | Anirudh Sareen | N/A | N/A
+MAPB2896LVD | Build a Self-Service Portal in a Multi-Cloud Environment | Maher AlAsfar | N/A | N/A
+MAPB2897LVD | Creating Custom Dashboards with VMware Aria Operations | Tim George | N/A | N/A
+MAPB2901LVD | A Deep Dive into Kubernetes Policy Management for Distributed Systems | Sneha Narang, Ryan Conley | N/A | N/A
+MAPB3017LVD | API-Driven Service Mesh: The Future of Microservices Architecture | Vibha Tripathi | N/A | N/A
+NSCB2395LVD | Advanced Load Balancer Design, Automation and Operations at Large Scale | Mitesh Pancholy, arin dube | N/A | N/A
+VMTN2632LV | VMware IT???s Modern App Platform Delivers a Superior Developer Experience | Mukund Yadav, Jairo Brenes Jimenez | N/A | N/A
+VMTN2691LV | How to Transform Your Cloud Journey with the VMware Cloud Well-Architected Framework | Caio Oliveira | N/A | N/A
+VMTN2692LV | Providing BC and DR to Oracle Workloads on VMware Hybrid and Multi-Cloud | Sudhir Balasubramanian | N/A | N/A
+VMTN2800LV | The Top 5 Tools Customers Want When Managing Multi-Cluster Kubernetes | Carol Pereira | N/A | N/A
+VMTN2807LV | Fast-Track Your App Development Using AI/ML Open Source Tools and Platforms | Mukund Yadav, Scott Tilney | N/A | N/A
+VMTN2815LV | Track Your Decarbonization Journey with Green Score in VMware Aria Operations | Varghese Philipose | N/A | N/A
+VMTN2823LV | Managing Your Kubernetes Fleet with Tanzu Mission Control | Lawrence Kohan | N/A | N/A
+VMTN3074LV | Using & Managing Microsoft Azure for the VMware Admin | Mike Nelson | N/A | N/A
+VMTN3075LV | GitHub for Newbies in 12 Minutes | Mike Nelson | N/A | N/A
+VMTN3213LV | Data Protection 101: Understanding the Basics and Importance | Shelly Calhoun Jones, Jed Wallace | N/A | N/A
+VMWB1679LV | [How VMware IT Runs Databases in VMware Tanzu Kubernetes Grid](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680288219141001YbS5&videoId=6335413190112target=_blank>Watch) | Jino jose, Lincu Abraham | N/A | 22
+VMWB2454LV | [Discover How VMware IT Moved to Multi-Cloud and Achieved 99.99% Availability](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681511739451001Ko5h&videoId=6335503407112target=_blank>Watch) | Swapnil Hendre, Manas Singh, Jairo Brenes Jimenez | N/A | 0
+VMWB2851LVD | How VMware IT Shares Their Best Practices with VMware Aria Operations for Logs | Ravishankar Rao, Fassil Ahmad War | N/A | N/A
+VMWB2852LVD | Future of Observability with VMware Aria Operations for Applications | Magin George, Anoop Sivaraman | N/A | N/A
+CEIB2577LVD | Mastering the Fusion of NSX Advanced Load Balancer with VMware Cloud Director | Abdul Aziz Mohammed, Jaikishan Tayal | N/A | N/A
+CSXB2278LV | [Liberty Mutual ??? VMware Cloud Foundation Modernization Journey](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681490374528001IJBj&videoId=6335411132112target=_blank>Watch) | Chethan B H, Ravi Chandra Jampani, Sarah Elsherif | N/A | 3
+MAPB1330LV | [Managing Kubernetes and Sovereign Data Needs with Tanzu Mission Control](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1679519980712001MLRN&videoId=6335502902112target=_blank>Watch) | Joe Mann, Francois Loiseau | N/A | 0
+MAPB1517LV | [Maximizing Cloud Efficiency with VMware Aria](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680031106926001qfvR&videoId=6335412508112target=_blank>Watch) | Christopher Kusek, Anthony Hornacek | N/A | 1
+MAPB2317LV | [My Software Supply Chain Was Compromised ??? 6 Words Nobody Wants to Hear](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681494903788001nI6r&videoId=6335503318112target=_blank>Watch) | Ryan Baker, Ramiro Salas | N/A | 0
+MAPB2467LV | [Machine Learning in Tanzu Hub: Powering the Tanzu Intelligent Services](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681514176175001TMPU&videoId=6335502807112target=_blank>Watch) | Marius Vilcu, Mohammad Abdel Jalil, Darien Schettler | N/A | 0
+MAPB2497LV | [Revolutionizing the Peruvian Financial Market](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681517962006001IIl9&videoId=6335413479112target=_blank>Watch) | Yanina Sotro, Giancarlo Bustamante, German Lopez, Juan Antonio Duran | N/A | 9
+MAPB2678LV | [Platform Engineering at Scale with VMware Tanzu Application Service ](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683745175530001ekKg&videoId=6335504671112target=_blank>Watch) | Nick Kuhn, Joe Hoh, Elizabeth Morris | N/A | 0
+MAPB2682LV | [VMware Tanzu: Your Complete Application Kubernetes Platform](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683759642907001KyIz&videoId=6335504085112target=_blank>Watch) | Andrew Babakian, Ben Hale, Duane DeCapite | N/A | 0
+MAPB2696LV | [VMware Aria for ALL of Your Clouds ??? What???s New](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683854753472001NTBZ&videoId=6335413077112target=_blank>Watch) | David Overbeek, Vincent Riccio | N/A | 7
+MAPB2697LV | Unified Compliance for VMware Clouds with VMware Aria | Nicholas Aronne, Neena Razdan, Lakshmikanth Mathur | N/A | N/A
+MAPB2711LV | [See It Now: Integrated, End-to-End Application Delivery with VMware Tanzu](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683907896642001otNs&videoId=6335504582112target=_blank>Watch) | Anu Srinivasa, Valentina Alaria, Arthur Fewell | N/A | 0
+MAPB2859LV | [Revolutionizing the Financial Services Industry with VMware Tanzu](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1684968583127001T12N&videoId=6335502221112target=_blank>Watch) | Diego Adri??n Quintana, Gustavo Demagistre, Victor Rojas, Pablo Papazian, Nicolas Solop | N/A | 0
+MAPB2867LV | Protect Your Kubernetes Workloads and Ensure Resiliency with VMware Tanzu | Pradeep Kumar Chaturvedi, Niran Evenchen | N/A | N/A
+MAPB2887LVD | Policy Enforcement with VMware Aria Guardrails | Jyoti Sharma, Michael Poore | N/A | N/A
+MAPB2929LVS | [Zero BS Backup for the VMware Admin with the Veeam Data Platform](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1686066083597001pJgr&videoId=6335411927112target=_blank>Watch) | Kirsten Stoner, Anthony Spiteri | N/A | 4
+MAPB3100LVD | The Day in the Life of a VMware Skyline SysAdmin | Kelcey Lemon | N/A | N/A
+MAPB3254LVS | The Next Generation of Data Empowerment using Industry Clouds | Chris Drieberg, Owen Keates | N/A | N/A
+MAPB4047LVS | [ Transform your Enterprise with the Hybrid SMART Model, VMware Tanzu & Aria](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1691108837098001onuI&videoId=6335502906112target=_blank>Watch) | alka gupta, Sachin Ohal | N/A | 0
+VMWB1356LV | [Propelling Customer Experiences with Multi-Cloud and App Modernization](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1679626230162001Z8Pb&videoId=6335504289112target=_blank>Watch) | Pankaj Purwar, Hina Fatima | N/A | 0
+
+## Networking & Security
+Session | Title | Speakers | Presentation | Views
+---|---|---|---|---
+CSXB2105LV | [Best Practices for Hardening Your VMware Infrastructure](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681415107293001bcTV&videoId=6335413181112target=_blank>Watch) | Daniel Mazzini, Kacy Reed | N/A | 7
+NSCB1121LV | How to Protect Your ESXi and vCenter from Getting Ransomware | Anders Olsson | N/A | N/A
+NSCB1235LV | [Resilient Healthcare Network Security with Micro-Segmentation and Threat Detection](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1679002962647001XdKn&videoId=6335410635112target=_blank>Watch) | Nick Aguilar, Britton Johnson, Rueben Hoskins Sr | N/A | 1
+NSCB1264LV | [Speed Up Micro-Segmentation with Data-Driven Insights from NSX Intelligence](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1679329892842001H9ov&videoId=6335504771112target=_blank>Watch) | Raymond Budavari | N/A | 0
+NSCB1266LV | [Detect Advanced Threats with VMware NSX ATP](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1679333531310001OkVR&videoId=6335502533112target=_blank>Watch) | Geoff Shukin | N/A | 0
+NSCB1388LV | [Unlocking NSX+, Multi-Tenancy, Security and Disaster Recovery for VMware Cloud on AWS](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1679681667447001TGbg&videoId=6335412207112target=_blank>Watch) | Ron Fuller, Jason Komara | N/A | 9
+NSCB1393LV | [End-to-End Network Security Design with VMware NSX](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1679682037500001V9xZ&videoId=6335503588112target=_blank>Watch) | Luca Camarda | N/A | 0
+NSCB1421LV | [Optimizing NSX Performance Based on Workload and ROI ](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1679774212628001P4vc&videoId=6335503700112target=_blank>Watch) | Samuel Kommu | N/A | 0
+NSCB1460LV | [Healthcare System Adoption of NSX Network Segmentation with ATP for Secure Networks](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1679939790487001sqfu&videoId=6335503321112target=_blank>Watch) | Josh Turner, Britton Johnson, Erik Strabala | N/A | 0
+NSCB1524LV | [Mastering NSX Operations for Improved Business Continuity and Resilience ](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680039278287001yCfh&videoId=6335413185112target=_blank>Watch) | Jing Shi, Andrew Hrycaj | N/A | 2
+NSCB1632LV | VMware NSX: A Tale of Two Use Cases | Kyle Setchel, Allen Tyson | N/A | N/A
+NSCB1758LV | [Cloud Native Networking and Security with Antrea and NSX](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680594554597001BwK5&videoId=6335502808112target=_blank>Watch) | Tom Schwaller | N/A | 0
+NSCB1770LV | Get Started with NSX Automation: Networking & Security Examples and Demos  | Thomas Vigneron, Antoine Deleporte | N/A | N/A
+NSCB1905LV | [Networking in VMware Cloud Foundation: Technical Deep Dive](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681225415488001UsI0&videoId=6335502133112target=_blank>Watch) | Heath Reynolds, Todd Day | N/A | 0
+NSCB1912LV | Securing Your VDI Deployment with NSX Security | Geoff Wilmington | N/A | N/A
+NSCB1913LV | [Under the Hood: NSX+ Policy and Intelligence](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681239974565001XOQZ&videoId=6335501934112target=_blank>Watch) | Kausum Kumar, Dimitri Desmidt | N/A | 0
+NSCB2088LV | [Accelerate your Multi-Cloud Journey with the latest NSX+ Innovations](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681411831974001Z3ly&videoId=6335504675112target=_blank>Watch) | Umesh Mahajan, Beni Eugster, Roberto Mari | N/A | 0
+NSCB2092LV | [Simplify and Secure your Multi-cloud Environment with NSX ??? Featuring City of Las Vegas](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681412692362001U9fN&videoId=6335504287112target=_blank>Watch) | Allen Tyson, Paul Dul | N/A | 0
+NSCB2094LV | [Technical Introduction to the Benefits of Network Virtualization with NSX](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681412938787001RvnM&videoId=6335413186112target=_blank>Watch) | Francois Tallet, Lucien Avramov | N/A | 2
+NSCB2148LV | [Deploy NSX Advanced Load Balancer to Enhance Your VMware Stacks Now](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681427573814001yEnj&videoId=6335412510112target=_blank>Watch) | Lei Yang, Arif Altalib, Abdul Aziz Mohammed | N/A | 6
+NSCB2149LV | [NEW Controller Cloud Service ??? Your Favorite Load Balancing as a SaaS Service](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681427803114001yjqP&videoId=6335412804112target=_blank>Watch) | Abhinav Modi, Chris Grice | N/A | 1
+NSCB2150LV | [Migrate F5/Citrix to NSX Advanced Load Balancer ??? Stories from the Customer](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681428113154001ASgG&videoId=6335413286112target=_blank>Watch) | Pablo Boscariol, Chad Herren | N/A | 6
+NSCB2151LV | *LIVE* App Security in the Real World: See the Bad Guys and Keep Them Out | Nathan McMahon, Neeraj Dhulekar | N/A | N/A
+NSCB2152LV | A Step-by-Step Demo to Set Up a Test Environment for Modern Apps in 30 Minutes | Remo Mattei, Chad Herren | N/A | N/A
+NSCB2170LV | [Get Started with HCX+: Transforming Workload Migration and Mobility](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681445707066001PLRc&videoId=6335502222112target=_blank>Watch) | Brianna Williams, Gabe Rosas | N/A | 0
+NSCB2240LV | [Getting Started with NSX on VMware Cloud Foundation](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681483059891001aj1O&videoId=6335411228112target=_blank>Watch) | Oliver Ziltener | N/A | 7
+NSCB2382LV | [Deploying at Cloud Speed: 7 Networking and Security Principles](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681503963410001dOL6&videoId=6335502318112target=_blank>Watch) | Steve Coutu, Prashant Gandhi, Ranga Rajagopalan | N/A | 0
+NSCB2730LV | [Bulletproof Your Network: 4 Steps and Best Practices to Ransomware Defense](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683933028335001TXUI&videoId=6335411135112target=_blank>Watch) | Stijn Vanveerdeghem, Bhanu Vemula | N/A | 6
+NSCB2824LV | NSX Operations and Troubleshooting Best Practices | Dixon Ly | N/A | N/A
+NSCB2872LV | Networking and Security in a Hybrid Cloud Environment | RABIUL HASAN, Suresh Palguna Krishnan | N/A | N/A
+NSCB2904LVD | SmartNIC ??? Advances in NSX and SmartNIC | Meghana Badrinath | N/A | N/A
+NSCB2907LVD | NSX+ Policy Manager ??? Deep Dive/How To | Kausum Kumar | N/A | N/A
+NSCB2908LVD | NSX+ Intelligence ??? Technical Deep Dive | Raymond Budavari | N/A | N/A
+NSCB2909LVD | Elevate your visibility in the SOC with VMware Network Detection and Response | Geoff Shukin | N/A | N/A
+NSCB2933LVS | [Protect and Secure Your VMs In The Face of Cyberattacks ](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1686142158957001IDhy&videoId=6335503591112target=_blank>Watch) | Alpika Singh, Derrin Rummelt | N/A | 0
+NSCB2946LVS | [Help Your Unstoppable Enterprise Remain??? Unstoppable](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1686574591317001nQx5&videoId=6335411623112target=_blank>Watch) | Jason Chaffee | N/A | 2
+NSCB3023LV | [Breaking Barriers: Transforming Threat Detection and Response](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1688593849869001pso3&videoId=6335413287112target=_blank>Watch) | Jason Rolleston | N/A | 8
+VMTN2797LV | VMware Security in a Multi-Cloud World | Waldemar Pera | N/A | N/A
+VMTN2799LV | Mastering Multi-Cloud Networking: Unleashing the Power of Cloud Connectivity | Justin Brandon | N/A | N/A
+VMTN2806LV | VMware Cloud Director and NSX ??? Best Practices | Paschek Tobias, Matthias Eisner | N/A | N/A
+VMTN2810LV | Why We Need Network Virtualization in Our Data Centers | Luca Camarda | N/A | N/A
+VMTN2820LV | Getting Started with NSX Infrastructure as Code | David Santos | N/A | N/A
+VMTN2830LV | Connectivity in the Multi-Cloud Era: A Guide to Networking Best Practices | Caio Oliveira | N/A | N/A
+VMWB1719LV | [VMware IT Journey to Zero Trust Using NSX Micro-Segmentation](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680302795694001eUjS&videoId=6335411931112target=_blank>Watch) | Swapnil Hendre, Katarina Serafine | N/A | 36
+VMWB2647LV | [How VMware Employs Modern Security Architecture to Redefine Digital Future](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683662157617001G9d0&videoId=6335503809112target=_blank>Watch) | Oscar Chang, Venkat Boyapati | N/A | 0
+
+## Vision and Innovation
+Session | Title | Speakers | Presentation | Views
+---|---|---|---|---
+CCSB1436LVD | Build a Multi-Cloud Solutions Lab with VMware Cross-Cloud Services | Simon Momber, Chani Modi | N/A | N/A
+CCSB2494LV | M&A: Converging Clouds and Employee Experience for Faster Time to Value | Amanda Blevins, Ariel Sanchez, Matthew Hays | N/A | N/A
+CEIB1976LV | [Customer Panel: vSphere Virtual Volumes Experiences and Insights](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681315889064001QOWu&videoId=6335501830112target=_blank>Watch) | Chris Schott, Edward VanTassell, Todd Kabella, Naveen Krishnamurthy, Cody Hosterman | N/A | 0
+CEIB2998LVS | [Operationalizing AI: Seismic Shifts in Enterprise Infrastructure.](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1687810330862001i5Qv&videoId=6335502513112target=_blank>Watch) | Missy Young | N/A | 0
+CSXB2079LV | Wellstar Empowers Healthcare with Cutting-Edge Horizon Hybrid Flexibility | Josh Tacey, Dax Sharpe | N/A | N/A
+INDB1270LV | Retail Store Modernization ??? Accelerating Digital Transformation | Cory Kitchens, Rich Severson, Anubhav Saxena | N/A | N/A
+MAPB1063LV | [Tanzu Vanguard: Priceless Customer Insights](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1677768334593001fdCF&videoId=6335502131112target=_blank>Watch) | Greg Meyer, Russell Hamker, Scott Rosenberg, Kerry Schaffer, Johan Marais | N/A | 0
+MAPB1522LV | [What Is My Carbon Footprint? ??? Real-Life Examples of Using VMware Aria Operations](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680038393713001o8Gm&videoId=6335503803112target=_blank>Watch) | Chani Modi, Mike Polson, Zhelong Pan, Varghese Philipose | N/A | 0
+MAPB1775LV | [Using FinOps and VMware Aria to Maximize the Value of Every Dollar Spent in Cloud](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680644582208001d7dP&videoId=6335502219112target=_blank>Watch) | Chris Swadish, Jon White | N/A | 0
+VIB1145LV | [Using Agile Methods to Grow an Inclusive Culture](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1678375738216001GaLl&videoId=6335411136112target=_blank>Watch) | Suraiya Suliman | N/A | 0
+VIB1464LV | [The Future Is Here: It???s Just Unevenly Distributed ??? How xLabs Innovates](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1679944015195001lt05&videoId=6335504288112target=_blank>Watch) | Dennis Ramdass, Natalie Fisher | N/A | 0
+VIB1643LV | [Cloud Data Infrastructure: Strategy and Product Portfolio](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680230001690001qQaG&videoId=6335503406112target=_blank>Watch) | Christos Karamanolis | N/A | 0
+VIB1744LV | [100x Your Engineering Throughput via AI Tools](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1680542984240001gGhs&videoId=6335411733112target=_blank>Watch) | H??seyin Dursun, Zhenfu Liang | N/A | 6
+VIB2118LV | [Building Your Own Lab: Keeping Pace with Change Across the Industry](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681419626471001Ckx1&videoId=6335413288112target=_blank>Watch) | Sean Massey, Jayme Manning | N/A | 11
+VIB2123LV | [Leveraging LLMs for Enterprise Use Cases ??? Are You Ready for ChatGPT?](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1681420302053001qOLT&videoId=6335502135112target=_blank>Watch) | Ramesh Radhakrishnan, Rick Battle, Chris Wolf | N/A | 0
+VIB2347LV | A Municipal Government's Journey to a Software-Defined Data Center | Michael Hollands | N/A | N/A
+VIB2371LV | Quantum Safe: An Update on NIST Cryptography Standardization, the Ecosystem, and the Journey to Preparedness | Greg Wetmore, Sean Huntley | N/A | N/A
+VIB2396LV | Adventures in Technical Career Progression | Nick Korte | N/A | N/A
+VIB2637LV | [The AI R-Evolution, why it will change the way we Work, Learn and Engineer](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683585606657001n1Lr&videoId=6335411343112target=_blank>Watch) | Chris Gully, John Arrasjid | N/A | 18
+VIB2845LV | [Career Advancement Panel Discussion: Tips for Success from Tech Leaders](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1684888818109001HuqJ&videoId=6335411432112target=_blank>Watch) | Iris Polit, Duncan Epping, Yasmine Buenaseda, Derrick Skipwith, David Burton | N/A | 8
+VIB2876LV | Neurodiversity in the Workplace Panel: Stories of Struggles and Superpowers | Iris Polit, Philip Monk, Jon Towles, Lauren Britton | N/A | N/A
+VIB2959LV | VMware Community Panel: Level Up Your Career Through Community Participation  | Corey Romero, Brian Chang, Franky Barragan | N/A | N/A
+VIB3019LVS | [Three Ways to Meet the AI Demand in a Constrained Data Center](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1688572515325001kzBN&videoId=6335502136112target=_blank>Watch) | Robert Hormuth | N/A | 0
+VIB3445LVS | [GenAI Fast-Track: Unleashing the Power of AI for Enterprises](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1690374440849001URZe&videoId=6335504199112target=_blank>Watch) | Mahesh Chandra, Ramachandran Padmanbhan | N/A | 0
+VIB3896LV | [Empowering Business Growth with Generative AI](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1690922898687001sRrS&videoId=6335411929112target=_blank>Watch) | Robbie Jerrom, Erik Pounds | N/A | 16
+VMTN2819LV | 5 Top Technology Trends Transforming the BFSI Industries | Sidharth Swami | N/A | N/A
+VMTN3079LV | Quantum Leap: The Ever-Changing Virtual Space of Quantum Computing | Tony Foster, John Arrasjid | N/A | N/A
+VMTN3082LV | The SEO Strategies for My Community Blog That Gave Me Six-Pack Abs | Tony Foster | N/A | N/A
+
