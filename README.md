@@ -4,4 +4,4 @@ Here is a summary of all VMware Explore US/EMEA 2023 Breakout session in an easy
 
 * [VMware Explore US Sessions](vmware-explore-us.md)
 
-* VMware Explore EMEA Sessions
+* [VMware Explore EMEA Sessions](vmware-explore-emea.md)
