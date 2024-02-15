@@ -21,9 +21,9 @@ Total Sessions NOT posted: 20
 
 * [Hybrid Workforce](#hybrid-workforce) (33)
 
-* [Modern Applications & Cloud Management](#modern-applications-&-cloud-management) (60)
+* [Modern Applications & Cloud Management](#modern-applications--cloud-management) (60)
 
-* [Networking & Security](#networking-&-security) (32)
+* [Networking & Security](#networking--security) (32)
 
 * [Vision and Innovation](#vision-and-innovation) (26)
 
